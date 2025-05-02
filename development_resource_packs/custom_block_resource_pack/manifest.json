@@ -1,0 +1,18 @@
+{ 
+ "format_version": 2, 
+ "header": { 
+  "description": "This is a resource pack used to demo components!", 
+  "name": "Demo Resource Pack", 
+  "uuid": "bcb49ccc-e1ab-49a1-8788-4e7275c1fccb", 
+  "version": [ 1, 0, 0 ], 
+  "min_engine_version": [ 1, 19, 20 ] 
+ }, 
+ "modules": [ 
+  { 
+   "description": "Demo Resource Pack", 
+   "type": "resources", 
+   "uuid": "aad8ae5a-00ce-412c-87ff-0f039efe8128", 
+   "version": [ 1, 0, 0 ] 
+  } 
+ ] 
+}
