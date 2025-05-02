@@ -1,0 +1,1 @@
+damage @e 30 block_explosion

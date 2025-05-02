@@ -1,0 +1,25 @@
+{
+    "format_version": 2,
+    "header": {
+      "description": "My attack cow behavior pack Add-On!",
+      "name": "Angry Cows",
+      "uuid":"e96d2142-759c-4aed-ad3f-8a54b243da29",
+      "version": [1, 0, 0],
+      "min_engine_version": [1, 16, 0]
+    },
+    "modules":
+      [
+        {
+          "description": "Zombie Cows",
+            "type": "data",
+            "uuid": "7d263d5d-5fb1-4fa6-827f-31cc7cba1f5a",
+            "version": [1, 0, 0]
+        }
+      ],
+    "dependencies": [
+      {
+       "uuid":"e96d2142-759c-4aed-ad3f-8a54b243da29",
+        "version":[1,0,0]
+      }
+   ]
+  }
